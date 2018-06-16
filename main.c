@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <malloc.h>
 
+// LISTA ENCADEADA
+
 typedef struct testruct {
     float valor;
     int coluna;
